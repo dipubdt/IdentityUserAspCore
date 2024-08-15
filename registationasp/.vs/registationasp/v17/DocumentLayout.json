@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\views\\account\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\views\\account\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\viewmodel\\assignrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\viewmodel\\assignrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\viewmodel\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\viewmodel\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\views\\account\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\views\\account\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\migrations\\20240815171544_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\migrations\\20240815171544_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\data\\configuration\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\data\\configuration\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|c:\\users\\dipon\\desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED642F0-17AC-4B0C-B538-BAF88478213C}|registationasp\\registationasp.csproj|solutionrelative:registationasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\AssignRole.cshtml",
+              "RelativeDocumentMoniker": "registationasp\\Views\\Account\\AssignRole.cshtml",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\AssignRole.cshtml",
+              "RelativeToolTip": "registationasp\\Views\\Account\\AssignRole.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T18:27:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "registationasp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "registationasp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T17:34:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\LoginVm.cs",
+              "RelativeDocumentMoniker": "registationasp\\Viewmodel\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\LoginVm.cs",
+              "RelativeToolTip": "registationasp\\Viewmodel\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:41:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "registationasp\\Viewmodel\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\RegisterVm.cs",
+              "RelativeToolTip": "registationasp\\Viewmodel\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:38:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "registationasp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\AppUser.cs",
+              "RelativeToolTip": "registationasp\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:17:20.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Controllers\\auth\\AccountController.cs",
+              "RelativeDocumentMoniker": "registationasp\\Controllers\\auth\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Controllers\\auth\\AccountController.cs",
+              "RelativeToolTip": "registationasp\\Controllers\\auth\\AccountController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAQwKMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:22:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "registationasp\\Views\\Account\\AddRole.cshtml",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\AddRole.cshtml",
+              "RelativeToolTip": "registationasp\\Views\\Account\\AddRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T17:58:19.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignRoleVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\AssignRoleVm.cs",
+              "RelativeDocumentMoniker": "registationasp\\Viewmodel\\AssignRoleVm.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\AssignRoleVm.cs",
+              "RelativeToolTip": "registationasp\\Viewmodel\\AssignRoleVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:22:11.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\RoleVm.cs",
+              "RelativeDocumentMoniker": "registationasp\\Viewmodel\\RoleVm.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Viewmodel\\RoleVm.cs",
+              "RelativeToolTip": "registationasp\\Viewmodel\\RoleVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:07:34.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240815171544_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Migrations\\20240815171544_init.cs",
+              "RelativeDocumentMoniker": "registationasp\\Migrations\\20240815171544_init.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Migrations\\20240815171544_init.cs",
+              "RelativeToolTip": "registationasp\\Migrations\\20240815171544_init.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:10:33.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "registationasp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "registationasp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T17:26:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "registationasp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "registationasp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:07:38.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Program.cs",
+              "RelativeDocumentMoniker": "registationasp\\Program.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Program.cs",
+              "RelativeToolTip": "registationasp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:00:40.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "registationasp\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\UserRole.cs",
+              "RelativeToolTip": "registationasp\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:32:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Data\\Configuration\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "registationasp\\Data\\Configuration\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Data\\Configuration\\AppUserConfiguration.cs",
+              "RelativeToolTip": "registationasp\\Data\\Configuration\\AppUserConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:43:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "registationasp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "registationasp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:36:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.json",
+              "RelativeDocumentMoniker": "registationasp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.json",
+              "RelativeToolTip": "registationasp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T15:59:47.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "registationasp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dipon\\Desktop\\project c#\\registation\\registationasp\\registationasp\\appsettings.Development.json",
+              "RelativeToolTip": "registationasp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T15:59:38.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
